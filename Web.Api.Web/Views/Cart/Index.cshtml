@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Sepetteki Ürünler";
+}
+@model Web.Api.Web.Models.CartDto
+<h2>Sepetteki Ürünler</h2>
+<ul>
+    @if (Model != null)
+    {
+        @foreach (var item in Model.CartItems)
+        {
+            <li>@item.Product.Name (@item.Quantity) <br />@item.Product.Description</li>
+        }
+    }
+    else
+    {
+        <li> Önce sepet oluşturmalısınız.</li>
+    }
+</ul>
+

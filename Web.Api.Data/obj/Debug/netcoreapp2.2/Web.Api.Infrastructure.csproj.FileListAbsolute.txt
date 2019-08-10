@@ -1,0 +1,12 @@
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\bin\Debug\netcoreapp2.2\Web.Api.Infrastructure.deps.json
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\bin\Debug\netcoreapp2.2\Web.Api.Infrastructure.dll
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\bin\Debug\netcoreapp2.2\Web.Api.Infrastructure.pdb
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\bin\Debug\netcoreapp2.2\Web.Api.Core.dll
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\bin\Debug\netcoreapp2.2\Web.Api.Core.pdb
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.csproj.CopyComplete
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.dll
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Data\obj\Debug\netcoreapp2.2\Web.Api.Infrastructure.pdb

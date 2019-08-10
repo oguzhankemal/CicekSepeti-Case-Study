@@ -1,0 +1,9 @@
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.deps.json
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.dll
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.pdb
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.AssemblyInfoInputs.cache
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.AssemblyInfo.cs
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.dll
+C:\Users\oguzh\source\repos\AddProductAPI\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.pdb

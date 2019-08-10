@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Tüm Ürünler";
+}
+@model IEnumerable<Web.Api.Web.Models.ProductDto>
+<h2>Tüm Ürünler</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name (@item.Quantity adet kaldı) <button type="button" id="@item.Id" class="btn btn-sm btn-primary">Add</button> <br /> @item.Description </li>
+    }
+</ul>
+
+@section scripts {
+
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                var url = '@Url.Action("AddProdutToCart", "Cart", new {area=""})';
+                $.ajax({
+                    url: url + "?productId=" + this.id,
+                    type: 'POST',
+                    dataType: 'json',
+                    success: function (data) {
+                        window.location.href = '@Url.Action("Index", "Product", new {area=""})';;
+                        },
+                    error: function (hata, ajaxOptions, thrownError) {
+                            alert(hata.status);
+                            alert(thrownError);
+                            alert(hata.responseText);
+                        }
+                    });
+                });
+        });
+    </script>
+
+}
